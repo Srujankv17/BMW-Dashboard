@@ -74,7 +74,7 @@ The dashboard helps answer questions such as:
 
 Screenshots
 Dashboard1 --> (https://github.com/Srujankv17/BMW-Dashboard/blob/main/PBI%20d1.jpeg)
-Dashboard2 --> ()
+Dashboard2 --> (https://github.com/Srujankv17/BMW-Dashboard/blob/main/BMW%20Dashboard.jpeg)
 
 
 
