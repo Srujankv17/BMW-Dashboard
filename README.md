@@ -73,7 +73,7 @@ The dashboard helps answer questions such as:
 * What are the overall revenue and sales trends?
 
 Screenshots
-Dashboard1 --> ()
+Dashboard1 --> (https://github.com/Srujankv17/BMW-Dashboard/blob/main/PBI%20d1.jpeg)
 Dashboard2 --> ()
 
 
